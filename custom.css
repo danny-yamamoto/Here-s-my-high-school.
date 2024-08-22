@@ -1,0 +1,18 @@
+/* @theme custom */
+/* Author: @danny-yamamoto */
+
+@import 'default';
+
+section {
+  background: rgb(255, 255, 255);
+}
+
+section img {
+  text-align: center;
+  width: 700px;
+}
+
+section h3 {
+  font-weight: bold;
+  color: #f04600;
+}
