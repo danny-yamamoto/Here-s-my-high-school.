@@ -5,8 +5,6 @@ theme: custom
 
 # 高校の紹介
 
-休暇エピソードを話そうかなと思っていましたがあまり紹介するような出来事がなかった
-
 ---
 
 トホホな高校の不思議
@@ -47,7 +45,7 @@ theme: custom
 
 ---
 
-![alt text](/images/image-a.png)
+![alt text](./image-a.png)
 
 [【ビジネスパーソンこそ遊べ】自分をハッピーにするアロハ記者流仕事術／幸せは仕事・勉強・遊びの大三角形の中に／仕事に読書が必要な理由／遊ぶ計画から立てよ／苦しい仕事を楽しくするには【近藤康太郎】](https://youtu.be/R6R3On17as4?feature=shared)
 
@@ -67,7 +65,7 @@ theme: custom
 - 古典を読む
     - [技術の創造と設計](https://amzn.asia/d/fzFVqNi)
 
-![alt text](/images/image-b.png)
+![alt text](./image-b.png)
 
 ---
 
