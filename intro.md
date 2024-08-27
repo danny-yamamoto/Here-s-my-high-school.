@@ -5,8 +5,8 @@ theme: custom
 
 # 高校の紹介
 
-休暇エピソードを話そうかなと思っていましたが
-あまり紹介するような出来事がなかった
+~~休暇エピソードを話そうかなと思っていましたが~~
+~~あまり紹介するような出来事がなかった~~
 
 
 ---
@@ -23,6 +23,7 @@ theme: custom
 - 消えた「エアマックス95 イエローグラデ」 👟
 - 毎年変わるサッカー部のユニフォーム メーカーと監督の外車。勝利給もあり ⚽️
 - 席取りは窓から 🚃
+- 高校の売店で、サッカー日本代表とツナサンド争奪戦！🥐
 
 [^1]: https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B2%A1%E7%A9%BA%E6%B8%AF%E3%82%AC%E3%83%AB%E3%83%BC%E3%83%80%E8%88%AA%E7%A9%BA%E6%A9%9F%E9%9B%A2%E9%99%B8%E4%BA%8B%E6%95%85
 
@@ -57,7 +58,8 @@ theme: custom
 
 ---
 
-1. 人生は仕事が大半。認めたくはないが、大半の人が当てはまる
+1. 人生は仕事が大半。
+    - 認めたくはないが、大半の人が当てはまる
 1. やらされる仕事は楽しくない
 1. 逆に、仕事が楽しければ人生の大半は楽しい
 1. 仕事の中でやりたいことを始める
@@ -72,6 +74,10 @@ theme: custom
     - [技術の創造と設計](https://amzn.asia/d/fzFVqNi)
 
 ![alt text](./image-b.png)
+
+---
+
+組織構造について、詳しくは [@kumagi](https://twitter.com/kumagi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) さんの [mond](https://mond.how/ja/topics/5i49gd7avszd8zd/drq1j9na68nz8kp) を参照
 
 ---
 
@@ -119,3 +125,9 @@ _backgroundColor: #f04600
 ---
 
 以上
+
+---
+
+![alt text](image.png)
+
+次は平本さんが出演する？
